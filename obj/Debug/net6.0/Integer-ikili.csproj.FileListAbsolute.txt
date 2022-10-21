@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\bin\Debug\net6.0\Integer-ikili.exe
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\bin\Debug\net6.0\Integer-ikili.deps.json
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\bin\Debug\net6.0\Integer-ikili.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\bin\Debug\net6.0\Integer-ikili.dll
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\bin\Debug\net6.0\Integer-ikili.pdb
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.dll
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\refint\Integer-ikili.dll
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.pdb
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\Integer-ikili.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Integer-ikili\obj\Debug\net6.0\ref\Integer-ikili.dll
